@@ -1,0 +1,25 @@
+{
+  "name": "sobblemc---1.0.0",
+  "version": "1.0.0",
+  "description": "Bot de minecraft criado por </zJoo>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jojozinho21/SobbleMC-BOT-Minecraft-.git"
+  },
+  "author": " </zJoo>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jojozinho21/SobbleMC-BOT-Minecraft-/issues"
+  },
+  "homepage": "https://github.com/Jojozinho21/SobbleMC-BOT-Minecraft-#readme",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.4.1"
+  }
+}
